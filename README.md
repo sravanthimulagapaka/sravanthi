@@ -1,6 +1,6 @@
 [![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://github.com/SravanthiMulagapaka)
 <h1 align="center">Hello people 👋, I'm SRAVANTHI MULAGAPAKA</h1>
-<h3 align="center">I'm a B.Sc Graduate passionate about Web Development, Python, and Data Analytics. Explore my repositories to see my projects and learning journey! 🌟</h3>
+<h3 align="center">I'm a B.Tech 4th Year Student in Computer Science Graduate. passionate about Web Development, Python,AI/ML and Data Analytics. Explore my repositories to see my projects and learning journey! 🌟</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
